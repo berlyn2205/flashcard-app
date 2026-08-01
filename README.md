@@ -1,6 +1,13 @@
 # Study Flashcard App
 
 
+## Live Demo
+
+View the deployed application here:
+
+https://flashcard-app-sigma-five.vercel.app
+
+
 ## Project Summary
 
 Study Flashcard App is an interactive React application that allows users to create and study flashcards. Users can add questions and answers, click cards to reveal answers, and remove cards when they are no longer needed.
